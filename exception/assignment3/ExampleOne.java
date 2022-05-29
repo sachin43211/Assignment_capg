@@ -1,4 +1,4 @@
-package capg.com.assignment3;
+package capg.com.exception.assignment3;
 
 
 import java.util.Scanner;

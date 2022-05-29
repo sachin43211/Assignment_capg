@@ -1,4 +1,4 @@
-package capg.com.assignment1;
+package capg.com.data_structure.assignment1;
 
 
 

@@ -1,4 +1,4 @@
-package capg.com.assignment1;
+package capg.com.data_structure.assignment1;
 
 import java.util.Scanner;
 class AverageMarks

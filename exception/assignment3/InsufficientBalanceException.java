@@ -1,4 +1,4 @@
-package capg.com.assignment3;
+package capg.com.exception.assignment3;
 
 @SuppressWarnings("serial")
 public class InsufficientBalanceException extends Throwable

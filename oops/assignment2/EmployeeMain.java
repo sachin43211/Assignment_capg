@@ -1,4 +1,4 @@
-package capg.com.assignment2;
+package capg.com.oops.assignment2;
 
 class Employee{
 	String name;
